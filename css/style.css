@@ -60,7 +60,7 @@ a {
 }
 
 body {
-  background-image: url("../img/header/mountain.jpg");
+  background: no-repeat url("../img/header/mountain.jpg");
 }
 
 .title__content {
