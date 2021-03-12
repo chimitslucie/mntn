@@ -116,3 +116,12 @@ body {
 .header__icon:last-child {
   margin-bottom: 908px;
 }
+
+.content__content {
+  display: flex;
+  align-items: center;
+}
+
+.content__title-number {
+  font-size: 240px;
+}
